@@ -1,4 +1,4 @@
 foo: foo value
 bar: bar value
-Info,Description : description value
-Info.Url : url value 
+Info.Description: description value
+Info.Url: url value 
