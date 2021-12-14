@@ -1,5 +1,5 @@
 foo: foo value from github
 bar: bar value from github
-Vault: vault value
+Vault: vault value from github
 Info.Description: description value from github
 Info.Url: url value from github
